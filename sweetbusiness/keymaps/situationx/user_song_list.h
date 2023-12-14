@@ -1,0 +1,1 @@
+#define LUCKY Q__NOTE(_C7), Q__NOTE(_D6), Q__NOTE(_E6), Q__NOTE(_A7), Q__NOTE(_FS8),
