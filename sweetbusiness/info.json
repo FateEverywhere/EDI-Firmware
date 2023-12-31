@@ -12,7 +12,8 @@
         "mousekey": true,
         "nkro": true,
         "rgb_matrix": true,
-        "audio":true
+        "audio":true,
+        "oled": true
     },
     "matrix_size": {
         "cols": 12, 
